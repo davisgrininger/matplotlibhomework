@@ -1,0 +1,5 @@
+Trends for pyber
+
+1. Generally the drives in the rural areas are more expensive drives
+2. Urban areas have many more drives but tend to be much cheaper (shorter?)
+3. Although suburban and rural make up a third of the total fares, the two categories only make up and eighth of the drivers. 
